@@ -4,7 +4,6 @@
 
 In this provided dataset [Dataset](https://docs.google.com/spreadsheets/d1458SFTSswQeU0lkEUi3XQTv2pPLDjzwxT1TcFbH-Ykg/edit?usp=sharing), questions about travel preferences were logged multiple times with the same ID and hash.
 
-![snapshot of dataset](/Users/alicemaphosa/Downloads/Excel_Data_Analytics_Course/Fundamentals of Excel/Data A  nalysysis/snapshot of dataset.png)
 
 **Objectives**
 
@@ -36,7 +35,7 @@ In this provided dataset [Dataset](https://docs.google.com/spreadsheets/d1458SFT
  ![Staging query](/Users/alicemaphosa/Downloads/Excel_Data_Analytics_Course/Fundamentals of Excel/Data A  nalysysis/Staging query.png)
  
 5. Repeat number 4 by first duplicating the staging query and filter for answers by applying the same procedure as above - call it duplicate query answers staging
-![answer](/Users/alicemaphosa/Downloads/Excel_Data_Analytics_Course/Fundamentals of Excel/Data A  nalysysis/answer.png)
+
 
 6. ***Merge Questions and Answers:***
 
@@ -45,6 +44,6 @@ In this provided dataset [Dataset](https://docs.google.com/spreadsheets/d1458SFT
 	- Expand the merged table to include only the answer column from the answer table.
 
 7. Rename the merged table
-![transformed data](/Users/alicemaphosa/Downloads/Excel_Data_Analytics_Course/Fundamentals of Excel/Data A  nalysysis/transformed data.png)
+
 8. Load the Data Back to Excel:
 
